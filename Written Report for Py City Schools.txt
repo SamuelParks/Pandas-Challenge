@@ -1,0 +1,11 @@
+
+
+Written Report for Py City Schools
+
+Assignment: Presents a cohesive written analysis that: ✓ Draws two correct conclusions from the data for Pyschool
+
+Response:
+	
+	1. Charter schools have higher overall passing rates than do District schools. By this mearsure, Charter schools are more successful than District schools.
+	2. The spending rate per student at a school does not clearly impact the school's overall passing rates. Increasing a school's funding alone will likely not address a school's issues with its overall passsing rate.
+
